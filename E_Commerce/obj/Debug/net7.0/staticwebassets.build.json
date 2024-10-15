@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "GuM8tdqtHE4Df4gPbklDuYBxFwQ38Mvb5tzUvNBiUAk=",
+  "Source": "E_Commerce.API",
+  "BasePath": "_content/E_Commerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E_Commerce.API\\wwwroot",
+      "Source": "E_Commerce.API",
+      "ContentRoot": "G:\\NT\\projectTwo\\E-Commerce-Website-main\\BackEnd-GP-ITI\\E_Commerce\\wwwroot\\",
+      "BasePath": "_content/E_Commerce.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

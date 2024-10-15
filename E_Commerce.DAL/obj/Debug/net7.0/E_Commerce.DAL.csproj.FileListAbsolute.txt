@@ -1,0 +1,14 @@
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\bin\Debug\net7.0\E_Commerce.DAL.deps.json
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\bin\Debug\net7.0\E_Commerce.DAL.runtimeconfig.json
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\bin\Debug\net7.0\E_Commerce.DAL.dll
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\bin\Debug\net7.0\E_Commerce.DAL.pdb
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.csproj.AssemblyReference.cache
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.AssemblyInfoInputs.cache
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.AssemblyInfo.cs
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.csproj.CoreCompileInputs.cache
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.dll
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\obj\Debug\net7.0\refint\E_Commerce.DAL.dll
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.pdb
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.genruntimeconfig.cache
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commerce.DAL\obj\Debug\net7.0\ref\E_Commerce.DAL.dll

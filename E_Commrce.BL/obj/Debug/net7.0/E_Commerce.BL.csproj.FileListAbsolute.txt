@@ -1,0 +1,15 @@
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\bin\Debug\net7.0\E_Commerce.BL.deps.json
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\bin\Debug\net7.0\E_Commerce.BL.dll
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\bin\Debug\net7.0\E_Commerce.BL.pdb
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\bin\Debug\net7.0\E_Commerce.DAL.dll
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\bin\Debug\net7.0\E_Commerce.DAL.pdb
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.csproj.AssemblyReference.cache
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.AssemblyInfoInputs.cache
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.AssemblyInfo.cs
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.csproj.CoreCompileInputs.cache
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commer.6AD6F189.Up2Date
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.dll
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\obj\Debug\net7.0\refint\E_Commerce.BL.dll
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.pdb
+G:\NT\projectTwo\E-Commerce-Website-main\BackEnd-GP-ITI\E_Commrce.BL\obj\Debug\net7.0\ref\E_Commerce.BL.dll
