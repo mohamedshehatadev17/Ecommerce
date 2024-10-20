@@ -8,6 +8,8 @@ This is a complete Ecommerce platform dedicated to clothing, built using .NET We
 
 - **User Authentication:** Secure login and registration system.
 - **Product Management:** Add, edit, and remove clothing items with categories and filters.
+- **Product Filtering:** Search and filter products by categories, price, size, and color.
+- **Pagination:** Efficient product browsing with paginated results for better user experience.
 - **Shopping Cart:** Real-time cart management with the ability to add, update, and remove items.
 - **Order Management:** Process and manage customer orders.
 - **Responsive Design:** Optimized for all devices using Bootstrap.
@@ -48,11 +50,11 @@ This is a complete Ecommerce platform dedicated to clothing, built using .NET We
 2.Navigate to the backend project and restore dependencies:
      ```bash
      
-            cd Ecommerce/Backend
-            dotnet restore
+       cd Ecommerce/Backend
+       dotnet restore
 3.Apply migrations to set up the database:
   ```bash
-   dotnet ef database update
+       dotnet ef database update
 ```
 4.Start the backend server:
    dotnet run
@@ -64,7 +66,7 @@ This is a complete Ecommerce platform dedicated to clothing, built using .NET We
 6.Open the browser and navigate to http://localhost:4200 to access the frontend: 
 frontend Repo : 
 ```bash
-https://github.com/mohamedshehatadev17/Ecommerce_Front
+     https://github.com/mohamedshehatadev17/Ecommerce_Front
 ```
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or fixes.
