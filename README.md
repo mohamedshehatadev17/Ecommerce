@@ -1,8 +1,57 @@
 # Clothes Ecommerce Platform
 
 ## Overview
-
+    
 This is a complete Ecommerce platform dedicated to clothing, built using .NET Web API for the backend and Angular for the frontend. The platform allows users to browse, search, and purchase clothes while providing a robust admin panel for managing products, orders, and users.
+
+## This sequence diagram illustrates the basic request and response flow in an e-commerce system for a product page request. Here's a breakdown of the steps:
+
+![image](https://github.com/user-attachments/assets/8599a24f-4a8f-48bd-9de9-6f75d2448438)
+
+1. User Action:
+
+   - The user requests a product page, typically by clicking a link or entering a URL.
+
+
+2. Client Request:
+
+   - The client (browser or app) sends an HTTP GET request to the web server for a specific product (e.g., /product/{id}).
+
+
+3. Web Server Processing:
+
+   - The web server receives the request and forwards it to the application server.
+
+
+4. Application Server Processing:
+
+   - The application server processes the request and queries the database for the product details.
+
+
+5. Database Interaction:
+
+   - The database retrieves the requested product data and returns it to the application server.
+
+
+6. Data Processing:
+
+     - The application server processes the data (e.g., formatting, adding additional information).
+
+
+7. Response Generation:
+
+     - The processed data is sent back to the web server.
+     - The web server generates an HTML response.
+
+
+8. Client Reception:
+
+    - The client receives the HTML response.
+
+
+9. User Interface:
+
+   - The client renders the HTML and displays the product page to the user.
 
 ## Features
 
