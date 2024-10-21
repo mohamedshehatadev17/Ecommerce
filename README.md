@@ -4,7 +4,7 @@
     
 This is a complete Ecommerce platform dedicated to clothing, built using .NET Web API for the backend and Angular for the frontend. The platform allows users to browse, search, and purchase clothes while providing a robust admin panel for managing products, orders, and users.
 
-## This sequence diagram illustrates the basic request and response flow in an e-commerce system for a product page request. Here's a breakdown of the steps:
+#### This sequence diagram illustrates the basic request and response flow in an e-commerce system for a product page request. Here's a breakdown of the steps:
 
 ![image](https://github.com/user-attachments/assets/8599a24f-4a8f-48bd-9de9-6f75d2448438)
 
