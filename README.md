@@ -93,8 +93,22 @@ This sequence diagram illustrates the basic request and response flow in an e-co
 - Node.js and Angular CLI
 - SQL Server
 
-### Setup
+## Setup
 
+ #### Packages :
+ open Ms Nuget manger then download :
+   - microsoft.entityframeworkcore
+   - microsoft.entityframeworkcore.sqlserver
+   - system.identitymodel.tokens.jwt
+   - swashbuckle.aspnetcore
+   - microsoft.aspnetcore.mvc.newtonsoftjson
+   - microsoft.aspnetcore.identity.entityframeworkcore
+   - microsoft.aspnetcore.openapi
+   - microsoft.aspnetcore.authentication.jwtbearer
+   - microsoft.identitymodel.tokens
+   - microsoft.entityframeworkcore.tools
+   - mimekit
+     
 1. Clone the repository:
      ```bash
      git clone https://github.com/mohamedshehatadev17/Ecommerce.git
